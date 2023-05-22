@@ -1,5 +1,5 @@
 const API_KEY = '64d4a845a4fa14251fe680243f72ea08'
-const URL = "https://api.openweathermap.org/data/2.5/forecast/daily"
+const URL = "https://api.openweathermap.org/data/3.0/forecast/daily"
 
 // export const coordinates = (location) => `${URL}weather?q=${location}&appid=${API_KEY}`
 
