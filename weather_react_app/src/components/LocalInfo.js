@@ -11,7 +11,6 @@ function LocalInfo({today: { city, country, date, population}}) {
             <Typography variant="h5" gutterBottom>
                 {date}
             </Typography>
-            
         </CardMedia>
     )
 }
